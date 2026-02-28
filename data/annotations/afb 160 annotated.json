@@ -1,0 +1,11 @@
+{
+  "image": "afb 160 annotated.bmp",
+  "boxes": [
+    [
+      64,
+      299,
+      84,
+      327
+    ]
+  ]
+}
