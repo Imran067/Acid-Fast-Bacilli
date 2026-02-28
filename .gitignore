@@ -1,0 +1,5 @@
+data/
+debug/
+eval_visuals/
+__pycache__/
+tiles/
